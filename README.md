@@ -1,2 +1,2 @@
-# MYportfolio
-basic billboard like website to advertise any business
+# Taste-Of-Town
+A food lover's paradise
